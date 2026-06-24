@@ -10,3 +10,5 @@ function fizzBuzz(n) {
     
     return result.join(', ');
 }
+
+console.log(fizzBuzz(100));
