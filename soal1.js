@@ -1,4 +1,3 @@
-/** Soal 1 */
 function reverseWords(w) {
     // let result = '';
     
